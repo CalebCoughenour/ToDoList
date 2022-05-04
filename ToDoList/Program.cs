@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using ToDoList.Models;
+using System.Linq;
 
 public class Program 
 {
@@ -24,10 +25,17 @@ public class Program
     }
     else if (userInput == "view")
     {
-      foreach (Item item in Item.GetAll())
+      if ( !Item.GetAll().Any() )
       {
-        Console.WriteLine(item.Description);
+        Console.WriteLine("Nothing to see here."); 
       }
+      else 
+      {
+        foreach (Item item in Item.GetAll())
+        {
+          Console.WriteLine(item.Description);
+        }
+      } 
     }
     else 
     {
