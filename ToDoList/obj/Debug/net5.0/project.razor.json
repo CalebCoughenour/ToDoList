@@ -15622,6 +15622,16 @@
       "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Items\\CreateForm.cshtml",
+      "TargetPath": "Views\\Items\\CreateForm.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Items\\Index.cshtml",
+      "TargetPath": "Views\\Items\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
