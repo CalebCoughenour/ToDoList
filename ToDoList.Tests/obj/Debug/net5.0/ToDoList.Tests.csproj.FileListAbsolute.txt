@@ -104,3 +104,4 @@ C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList.Test
 C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.runtimeconfig.json
 C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
 C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.exe
+C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\MySqlConnector.dll

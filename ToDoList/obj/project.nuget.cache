@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vYCRhedD5OOqmisRbn5krH8YgJOgWZtC5oyQ4r7EVQ/lIYSnNA4+RI+p/NQaG13CuQ//CI8iLFbpicKGXQWiYQ==",
+  "dgSpecHash": "Xw13hfmciXgsYZ5tR03guOfum2dSKjJNuKv+nxVaUq42Rb+7/9a7p5kzlCswiTpKvSST4wQ4elD208hbjyCSjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\belac\\.nuget\\packages\\mysqlconnector\\0.69.0\\mysqlconnector.0.69.0.nupkg.sha512"
+  ],
   "logs": []
 }

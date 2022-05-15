@@ -15639,6 +15639,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Shared\\Footer.cshtml",
+      "TargetPath": "Views\\Shared\\Footer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Categories\\Show.cshtml",
       "TargetPath": "Views\\Categories\\Show.cshtml",
       "FileKind": "mvc"

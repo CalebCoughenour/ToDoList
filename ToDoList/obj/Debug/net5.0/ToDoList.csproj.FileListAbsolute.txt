@@ -38,3 +38,5 @@ C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList\obj\
 C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Categories\Show.cshtml.g.cs
 C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Home\FavoritePhotos.cshtml.g.cs
 C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\belac\onedrive\desktop\epicodus\c-sharp\ToDoList.Solution\ToDoList\bin\Debug\net5.0\MySqlConnector.dll
