@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Items\\Edit.cshtml",
+      "TargetPath": "Views\\Items\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -15649,13 +15654,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Categories\\Create.cshtml",
+      "TargetPath": "Views\\Categories\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Categories\\Details.cshtml",
+      "TargetPath": "Views\\Categories\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Items\\AddCategory.cshtml",
+      "TargetPath": "Views\\Items\\AddCategory.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Categories\\Edit.cshtml",
+      "TargetPath": "Views\\Categories\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Items\\Delete.cshtml",
+      "TargetPath": "Views\\Items\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Categories\\Index.cshtml",
+      "TargetPath": "Views\\Categories\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Items\\Details.cshtml",
       "TargetPath": "Views\\Items\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Items\\DeleteAll.cshtml",
-      "TargetPath": "Views\\Items\\DeleteAll.cshtml",
+      "FilePath": "c:\\Users\\belac\\onedrive\\desktop\\epicodus\\c-sharp\\ToDoList.Solution\\ToDoList\\Views\\Categories\\Delete.cshtml",
+      "TargetPath": "Views\\Categories\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
